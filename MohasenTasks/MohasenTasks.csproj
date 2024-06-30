@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Design Pattern\Behavioral pattern\strategy pattern\Taxes.cs" />
+    <Compile Include="Design Pattern\Creational\Singleton.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
